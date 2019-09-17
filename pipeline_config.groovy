@@ -1,4 +1,12 @@
 libraries{
   merge = true 
-  example
+  example {
+      agent 'jnlp-agent'
+  }
+}
+
+stages{
+    continuous_integration{
+        build
+    }
 }
