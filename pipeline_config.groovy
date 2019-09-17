@@ -1,7 +1,7 @@
 libraries{
   merge = true 
   example {
-      agent 'jnlp-agent'
+      agent = 'jnlp-agent'
   }
 }
 
