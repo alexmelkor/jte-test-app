@@ -1,3 +1,4 @@
 # jte-test-app
 
-example of Jenkins Template Engine 
+example of Jenkins Template Engine
+ 
